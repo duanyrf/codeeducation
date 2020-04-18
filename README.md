@@ -1,3 +1,8 @@
+<p align="center">
+    <img src="https://d1fdloi71mui9q.cloudfront.net/o2UK4WLMScm4GVgIoKHn_acb3d386f140df7b3fe268aeef13c7df" width="154" height="154">
+</p>
+
+
 # Desafio Docker
 
 Este projeto refere-se à segunda atividade prática do Módulo DevOps - Iniciando com Docker.
