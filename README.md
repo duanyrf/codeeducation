@@ -1,0 +1,28 @@
+# Desafio Docker
+
+Este projeto refere-se à segunda atividade prática do Módulo DevOps - Iniciando com Docker.
+
+## Objetivo
+
+A atividade tem por objetivo produzir uma imagem Docker que, ao ser executada, imprime na saída padrão "Code.education Rocks!".
+
+### Construindo a Imagem
+
+Para utilizar um container com a imagem produzida, basta clonar este projeto em um diretório em seu computador e executar o seguinte comando para construir a imagem:
+
+```bash
+docker build -t <nome-imagem> .
+```
+
+A imagem será construída e você poderá executá-la a partir do comando:
+
+```bash
+docker run <nome-imagem>
+```
+
+Nesse momento a mensagem "Code.education Rocks!" aparecerá em seu terminal.
+
+
+## Licença
+
+Este é um projeto open source com fins educacionais e é distribuído sob a [MIT License](https://opensource.org/licenses/MIT).
