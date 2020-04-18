@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://d1fdloi71mui9q.cloudfront.net/o2UK4WLMScm4GVgIoKHn_acb3d386f140df7b3fe268aeef13c7df" width="154" height="154">
+    <img src="https://fullcycle.com.br/wp-content/themes/fullcycle-blog/application/img/logo-fullcycle.png" title="FullCycle" alt="School of Net">
 </p>
 
 
