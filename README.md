@@ -6,7 +6,7 @@ Este projeto refere-se à segunda atividade prática do Módulo DevOps - Inician
 
 A atividade tem por objetivo produzir uma imagem Docker que, ao ser executada, imprime na saída padrão "Code.education Rocks!".
 
-### Construindo a Imagem
+### Executando
 
 Para utilizar um container com a imagem produzida, basta clonar este projeto em um diretório em seu computador e executar o seguinte comando para construir a imagem:
 
@@ -21,6 +21,8 @@ docker run <nome-imagem>
 ```
 
 Nesse momento a mensagem "Code.education Rocks!" aparecerá em seu terminal.
+
+Caso deseje baixar a imagem já preparada para utilização, basta acessá-la neste repositório Docker [aqui](https://hub.docker.com/r/duanyrf/codeeducation).
 
 
 ## Licença
